@@ -1,6 +1,6 @@
 class Mkulima{
     constructor(){
-    this.farmer = [];
+    this.farmer = []; 
     this.Vendor = [];
     this.product = [];
     this.addFarm = (farmId, name, farmer, phoneNumber, address) => {
